@@ -1,0 +1,14 @@
+C:\Code\PIM\obj\Debug\net8.0\PIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\PIM\obj\Debug\net8.0\PIM.AssemblyInfoInputs.cache
+C:\Code\PIM\obj\Debug\net8.0\PIM.AssemblyInfo.cs
+C:\Code\PIM\obj\Debug\net8.0\PIM.csproj.CoreCompileInputs.cache
+C:\Code\PIM\bin\Debug\net8.0\PIM.exe
+C:\Code\PIM\bin\Debug\net8.0\PIM.deps.json
+C:\Code\PIM\bin\Debug\net8.0\PIM.runtimeconfig.json
+C:\Code\PIM\bin\Debug\net8.0\PIM.dll
+C:\Code\PIM\bin\Debug\net8.0\PIM.pdb
+C:\Code\PIM\obj\Debug\net8.0\PIM.dll
+C:\Code\PIM\obj\Debug\net8.0\refint\PIM.dll
+C:\Code\PIM\obj\Debug\net8.0\PIM.pdb
+C:\Code\PIM\obj\Debug\net8.0\PIM.genruntimeconfig.cache
+C:\Code\PIM\obj\Debug\net8.0\ref\PIM.dll
